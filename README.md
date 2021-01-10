@@ -19,7 +19,7 @@
   - 과제를 한번 안 할 경우, 1점 감점
   - 5점 감점 시, 수업에서 강제 퇴출 :cry:
   
-## 수업 일정 :date:
+## 수업 일정 :date: 
 - *2021-01-26*
   - Pointer <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
   - Function Pointer <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
@@ -28,7 +28,7 @@
   - Circular Single Linked List <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
 - *2021-02-05*
   - Double Linked List <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
-  - Circular Double Linked List <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+  - Circular Double Linked List <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px> <img align="right" src="Logo/code_image.png" width=50% heigh=50%>
 - *2021-02-07*
   - Stack <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
   - Queue <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
