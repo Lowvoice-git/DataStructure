@@ -18,3 +18,22 @@
 - **규칙**
   - 과제를 한번 안 할 경우, 1점 감점
   - 5점 감점 시, 수업에서 강제 퇴출
+  
+## 수업 일정
+- *2021-01-26*
+  - Pointer
+  - Function Pointer
+- *2021-01-28*
+  - Single Linked List
+  - Circular Single Linked List
+- *2021-02-05*
+  - Double Linked List
+  - Circular Double Linked List
+- *2021-02-07*
+  - Stack
+  - Queue
+  - Circular Queue
+- *2021-02-12*
+  - Binary Search Tree
+- *2021-01-24*
+  - Tree traversal
