@@ -20,7 +20,7 @@
   - 5점 감점 시, 수업에서 강제 퇴출 :cry:
   
 ## 수업 일정 :date:
-<img src="Logo/code_image.png" align="right">
+<img src="Logo/code_image.png" align="right"/>
 - *2021-01-26*
   - Pointer <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
   - Function Pointer <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
