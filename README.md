@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="Logo/profile.png" width=80% heigh=80%>
+  <img src="Logo/profile.png" width=100% heigh=100%>
 </div>
 <br>
 <div align="center">
