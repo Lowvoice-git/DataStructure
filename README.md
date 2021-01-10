@@ -21,19 +21,19 @@
   
 ## 수업 일정 :date: 
 - *2021-01-26*
-  - Pointer <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
-  - Function Pointer <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
+  - Pointer <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
+  - Function Pointer <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
 - *2021-01-28*
-  - Single Linked List <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
-  - Circular Single Linked List <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+  - Single Linked List <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+  - Circular Single Linked List <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
 - *2021-02-05*
-  - Double Linked List <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
-  - Circular Double Linked List <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px> <img align="right" src="Logo/code_image.png" width=50% heigh=50%>
+  - Double Linked List <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+  - Circular Double Linked List <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px> <img align="right" src="Logo/code_image.png" width=50% heigh=50%>
 - *2021-02-07*
-  - Stack <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
-  - Queue <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
-  - Circular Queue <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+  - Stack <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+  - Queue <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+  - Circular Queue <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
 - *2021-02-12*
-  - Binary Search Tree <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+  - Binary Search Tree <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
 - *2021-01-24*
-  - Tree traversal <br><img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+  - Tree traversal <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
