@@ -1,4 +1,6 @@
-# DataStructure
+<div align="center">
+  <h1>DataStructure</h1>
+</div>
 
 <div align="center">
   <img src="Logo/profile.png" width=80% heigh=80%>
