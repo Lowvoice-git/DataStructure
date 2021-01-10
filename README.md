@@ -21,7 +21,7 @@
   
 ## 수업 일정
 - *2021-01-26*
-  - Pointer <img src="Logo/C_Languege_Logo.png" width=10px heigh=10px>
+  - Pointer <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/Python_Languege_Logo.png" width=20px heigh=20px>
   - Function Pointer
 - *2021-01-28*
   - Single Linked List
