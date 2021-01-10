@@ -5,8 +5,8 @@
 </div>
 <br>
 <div align="center">
-  **DEVSIGN**에서 **교육**을 위해 작성한 문서입니다. <br>
-  **자료구조**의 전반적인 **이론**에 대해서 교육을 할 것입니다.
+  <strong>DEVSIGN</strong>에서 <strong>교육</strong>을 위해 작성한 문서입니다. <br>
+  <strong>자료구조</strong>의 전반적인 <strong>이론</strong>에 대해서 교육을 할 것입니다.
 </div>
 
 ## 수업 일정
