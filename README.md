@@ -19,7 +19,7 @@
   - 과제를 한번 안 할 경우, 1점 감점
   - 5점 감점 시, 수업에서 강제 퇴출 :cry:
   
-## 수업 일정 :date: <img align="right" src="Logo/code_image.png" width=50% heigh=50%>
+## 수업 일정 :date: <div align="middle"><img align="right" src="Logo/code_image.png" width=50% heigh=50%></div>
 - *2021-01-26*
   - Pointer <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
   - Function Pointer <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px>
