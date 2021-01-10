@@ -21,7 +21,7 @@
   
 ## 수업 일정
 - *2021-01-26*
-  - Pointer ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png)
+  - Pointer <img src="Logo/C_Languege_Logo.png" width=10px heigh=10px>
   - Function Pointer
 - *2021-01-28*
   - Single Linked List
