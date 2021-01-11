@@ -35,5 +35,7 @@
   - Circular Queue <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
 - *2021-02-12*
   - Binary Search Tree <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
-- *2021-01-24*
+- *2021-02-16*
   - Tree traversal <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
+- *2021-02-18*
+  - Hash <img src="Logo/C_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/C++_Languege_Logo.png" width=20px heigh=20px> <img src="Logo/python_Languege_Logo.png" width=20px heigh=20px>
